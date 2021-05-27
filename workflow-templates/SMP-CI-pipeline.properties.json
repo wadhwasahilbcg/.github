@@ -2,9 +2,7 @@
   "name": "SMP PAS Workflow",
   "description": "BCG Organization CI workflow template.",
   "iconName": "example-icon",
-  "categories": [
-    "Java"
-  ],
+  "categories": ["Dockerfile"],
   "filePatterns": [
     "package.json$",
     "^Dockerfile",
